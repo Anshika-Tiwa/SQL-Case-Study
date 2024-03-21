@@ -1,1 +1,1 @@
-# SQL-Case-Study
+This repository contains SQL scripts demonstrating the creation of tables using various clauses such as CREATE TABLE, ALTER TABLE, and CONSTRAINTS. Explore different approaches to database design and table creation
